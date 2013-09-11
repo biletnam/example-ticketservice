@@ -42,3 +42,8 @@ lib/                            Shared libraries
 README.md                       This file
 architecture.pdf                Architecture overview
 ```
+
+### Screenshots
+
+![client](http://i.imgur.com/1oswQid.png)
+![server](http://i.imgur.com/qjhzk2x.png)
