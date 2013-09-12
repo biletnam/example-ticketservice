@@ -1,6 +1,8 @@
-# NB! This is example project from 2010.
-
-**Tags:** PHP5, OOP, MVC, namespaces, interfaces, abstraction, exceptions, PDO, reflection, REST, factory, DAO, client-server.
+```
+NB! This is reference project from 2010.
+Tags: PHP5, OOP, MVC, namespaces, interfaces, exceptions,
+      PDO, reflection, REST, factory, DAO, client-server.
+```
 
 Theater ticket booking service
 ==============================
